@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dicoding Event</string>
+    <string name="title_upcoming">Upcoming Event</string>
+    <string name="title_finished">Finished Event</string>
+    <string name="title_favorite">Favorite Event</string>
+    <string name="title_setting">Setting</string>
+
+    <string name="hello_upcoming_fragment">Hello upcoming fragment</string>
+    <string name="hello_finished_fragment">Hello finished fragment</string>
+
+    <string name="tvHeader">Dicoding Event</string>
+    <string name="tvSubHeader">Recommendation event for you!</string>
+
+    <string name="tvEventName">Event Name</string>
+    <string name="tvEventSummary">Kupas tuntas langkah-langkah memulai karir sebagai developer aplikasi Android</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dark_mode">Dark Mode</string>
+</resources>
