@@ -26,10 +26,10 @@
 ## Screenshots
 
 <p>
-<img src="screenshot/ss_1.jpeg" width="20%"/>
-<img src="screenshot/ss_2.jpeg" width="20%"/>
-<img src="screenshot/ss_3.jpeg" width="20%"/>
-<img src="screenshot/ss_4.jpeg" width="20%"/>
+<img src="screenshots/ss_1.jpeg" width="20%"/>
+<img src="screenshots/ss_2.jpeg" width="20%"/>
+<img src="screenshots/ss_3.jpeg" width="20%"/>
+<img src="screenshots/ss_4.jpeg" width="20%"/>
 </p>
 
 
